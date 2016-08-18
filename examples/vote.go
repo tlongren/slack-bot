@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/hsluo/slack-bot"
+	"github.com/tlongren/slack-bot"
 
 	"google.golang.org/appengine"
 	l "google.golang.org/appengine/log"

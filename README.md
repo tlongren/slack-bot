@@ -7,5 +7,5 @@ A rough implementation of Slack API
 
 # Usage
 Check out the `examples` directory, or the repos
-- Loggly alert and search (See https://github.com/hsluo/slack-loggly-alert)
-- RTM (See https://github.com/hsluo/slack-message-forward)
+- Loggly alert and search (See https://github.com/tlongren/slack-loggly-alert)
+- RTM (See https://github.com/tlongren/slack-message-forward)

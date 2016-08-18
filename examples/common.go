@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hsluo/slack-bot"
+	"github.com/tlongren/slack-bot"
 )
 
 var (
